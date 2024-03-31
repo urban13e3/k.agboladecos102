@@ -1,0 +1,72 @@
+1. Flowchart for Simple Interest :
+
+Start
+    |
+    v
+[Input principal amount (P)]
+    |
+    v
+[Input interest rate (r)]
+    |
+    v
+[Input time period (T)]
+    |
+    v
+[Calculate simple interest (A = P * (1 + (r/100) * T))]
+    |
+    v
+[Output A]
+    |
+    v
+End
+
+2. Flowchart for Compound Interest:
+
+Start
+    |
+    v
+[Input principal amount (P)]
+    |
+    v
+[Input interest rate (r)]
+    |
+    v
+[Input number of times interest is compounded per year (n)]
+    |
+    v
+[Input time period in years (t)]
+    |
+    v
+[Calculate compound interest (A = P * (1 + r/n)^(n*t))]
+    |
+    v
+[Output A]
+    |
+    v
+End
+
+3. Flowchart for annuity plan:
+
+Start
+    |
+    v
+[Input payment amount per period (PMT)]
+    |
+    v
+[Input interest rate (R)]
+    |
+    v
+[Input number of times interest is compounded per year (n)]
+    |
+    v
+[Input time period in years (t)]
+    |
+    v
+[Calculate annuity (A = PMT * [(1 + R/n)^(n*t) - 1] / (R/n))]
+    |
+    v
+[Output A]
+    |
+    v
+End
+
