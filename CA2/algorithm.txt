@@ -1,0 +1,12 @@
+1. Define the menu items and their prices.
+2. Create a function to calculate the total order and display the total charge.
+    a. Calculate the total order amount.
+    b. Determine the discount based on the total order amount.
+    c. Calculate the total charge after applying the discount.
+    d.Display the total charge.
+3. Create a Tkinter window titled "PAU Cafeteria".
+4. Set up dictionaries to store order quantities and menu item prices.
+5. Display each category of food items with their prices and input fields for quantities.
+6. Create a label widget to display the total charges.
+7. Create a button to calculate the total charges when the order is completed.
+8. Run the Tkinter event loop to start the application.
